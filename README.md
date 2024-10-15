@@ -1,2 +1,2 @@
-# genai
-GenAI
+# GenAI
+Generative AI (GenAI)
